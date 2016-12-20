@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+    When there are more contributer to a single project other than me.
+    They can always create new files and make changes to an existing file.
