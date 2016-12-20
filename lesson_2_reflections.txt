@@ -8,3 +8,33 @@ What value do you think it offers?
 
     Staging area is to add files that have changes. Shit that dosent'n
     sounds good.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+    I can always check from the pervious version by using git diff
+    between working directory and staging area.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+    Branches will help in making different version of a same project.
+
+How do the diagrams help you visualize the branch structure?
+
+    That was AWESOME.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+    Merging two branches joined two peices of a puzzle together.
+    To get the better track to the commits the two branches have we
+    can use graphs or diagrams. So it is easy to read and understand.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+    Cons. Manually Merging two branches means there can be a lot of code
+    that need to be taken care of which also means a lot of time.
+    Pros. Doing automatic merge will reduce efforts and time but
+    you can not take those important decisions to be taken by a machine.
